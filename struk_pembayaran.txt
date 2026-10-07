@@ -1,0 +1,27 @@
+==================================================
+                SUSU MBOK DARMI
+        Kantin Universitas Tarumanegara
+==================================================
+No Nota : MD-20260928-001
+Waktu   : 28/09/2026 23:13:35
+No Urut : 1
+Order   : Dine In (DI)
+--------------------------------------------------
+Darmi Plain T                  x1   Rp    14,000
+   [Ukuran: T | Gula: Less | Es: Less]
+Darmi Plain T (FREE)           x1   Rp         0
+   [Ukuran: T | Gula: Normal | Es: Less]
+--------------------------------------------------
+Voucher / Promo Terpasang:
+ * Kode : FREE-PLAIN - Promo Gratis Darmi Plain
+   Gratis Produk: Darmi Plain (T)
+--------------------------------------------------
+Subtotal              : Rp       14,000
+Pajak                 : Rp        1,400
+Pembulatan            : Rp            0
+--------------------------------------------------
+TOTAL BAYAR           : Rp       15,400
+Metode Pembayaran     : Tunai (Cash)
+==================================================
+        Terima Kasih Atas Kunjungan Anda!        
+==================================================
